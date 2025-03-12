@@ -1,0 +1,66 @@
+#navbar{
+    height:60px;
+    background-color:black;
+}
+
+button{
+    background-color:#f08804;
+}
+
+#logo{
+    background-color:#f08804;
+    font-size:25px;
+    text-decoration: none;
+}
+a{
+    margin-right: 190px;
+}
+
+.contentBox{
+    height: 300px;
+    width:500px;
+    border: 2px solid black;
+    display:inline-block;
+}
+
+
+
+body{
+    background-image: url(photo.webp);
+    
+}
+div{
+    height:200px;
+    width:200px;
+    background-color:aqua;
+    border:2px solid black;
+    display:inline-block;
+}
+#block1{
+    position:sticky;
+    top:10px;
+    background-image: url(vegetahype.jpg );
+    background-size:contain;
+
+}
+#block2{
+    position:sticky;
+    top:10px;
+    left:50px;
+    background-image: url(goku_hype.jpg);
+    background-size:contain;
+}
+#block3{
+    position:sticky;
+    top:10px;
+    left:60px;
+    background-image:  url(obito_hype.jpg);
+    background-size: contain;
+}
+#block4{
+    position:sticky;
+    top:10px;
+    left:10px;
+    background-image: url(baki.jpg) ;
+    background-size: contain;
+}
